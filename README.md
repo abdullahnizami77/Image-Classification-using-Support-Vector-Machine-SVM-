@@ -46,15 +46,4 @@ The SVM model achieves the following performance on the test data:
 - Recall: 96.47%
 - F1 Score: 97.04%
 
-## Visualization
 
-A 3D scatter plot is generated using Plotly Express to visualize the SVM model's performance metrics.
-
-
-
-Author: [Your Name]
-Contact: [Your Email Address]
-
----
-
-Replace `[Your Name]` and `[Your Email Address]` with your actual name and email address. Additionally, you can provide more details about the project, its purpose, and potential improvements in the README file.
